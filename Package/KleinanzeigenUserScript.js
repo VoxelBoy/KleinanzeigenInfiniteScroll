@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.kleinanzeigen.de/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      -
 // @description 04/08/2023, 21:46:24
 // @run-at      Document-Start
