@@ -17,9 +17,6 @@
       "js": ["KleinanzeigenUserScript.js"]
     }
   ],
-  "permissions": [
-    "scripting"
-  ],
   "host_permissions": [
     "https://www.kleinanzeigen.de/*"
   ]

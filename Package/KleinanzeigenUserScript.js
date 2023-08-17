@@ -153,8 +153,6 @@ function loadNextPageProducts() {
     nextPageURL = urlParts.join('/');
   }
 
-  console.log(nextPageURL);
-
   fetch(nextPageURL)
     .then(response => response.text())
     .then(html => {
